@@ -1,4 +1,8 @@
 Link do projeto Miro do Lean Inception
 Aluna: Beatriz Salles
 
+Link do miro:
 https://miro.com/app/board/uXjVKVp6coo=/?share_link_id=102183095962
+
+Link do wireframe:
+https://www.figma.com/file/PcGa3deB1rFxJKhIm0WL8V/eWallet-Wireframe?type=design&node-id=1%3A17&mode=design&t=M7KVK63fK80tTd6n-1
